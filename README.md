@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @haleye
+- 👀 I’m interested in cybersecurity and database administration
+- 🌱 I’m currently learning networking and pen testing
+- 📫 How to reach me hesquibel@live.nmhu.edu
